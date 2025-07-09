@@ -6,8 +6,13 @@ class Demo{
         
     }
 
+
     void Mikku(){
         System.out.println("i am Mikku")
         
+
+    void bleson(){
+        System,out.println("I am Bleson*_*")
+
     }
 }
